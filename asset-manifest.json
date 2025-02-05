@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PSPWEB/static/css/main.f4c8065d.css",
+    "main.js": "/PSPWEB/static/js/main.097c5a59.js",
+    "static/js/488.e75445ad.chunk.js": "/PSPWEB/static/js/488.e75445ad.chunk.js",
+    "index.html": "/PSPWEB/index.html",
+    "main.f4c8065d.css.map": "/PSPWEB/static/css/main.f4c8065d.css.map",
+    "main.097c5a59.js.map": "/PSPWEB/static/js/main.097c5a59.js.map",
+    "488.e75445ad.chunk.js.map": "/PSPWEB/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c8065d.css",
+    "static/js/main.097c5a59.js"
+  ]
+}
