@@ -11,7 +11,7 @@ function App() {
   const getAllUsers = async () => {
     try {
       const { data } = await axios.get(
-        "http://localhost:8080/api/v1/users/get-all-users"
+        "https://pspmobile.onrender.com/api/v1/users/get-all-users"
       );
       setAllUsers(data.users);
     } catch (error) {
